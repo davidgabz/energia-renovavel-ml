@@ -1,5 +1,14 @@
 # Energias renováveis e aprendizado de máquina
 
+Integrantes:
+
+David Gabriel - 574147
+Enzo Christino - 572037
+Guilherme Guimarães - 572957
+Lucas Pinheiro - 573497
+Filipe Gunther - 571131
+João Lucas - 571355
+
 ## Objetivo
 
 Comparar três modelos de classificação para identificar a fonte de empreendimentos
